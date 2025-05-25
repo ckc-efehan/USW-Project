@@ -1,0 +1,29 @@
+# Core dependencies
+setuptools
+wheel
+pandas
+numpy
+
+# Data collection
+requests
+beautifulsoup4
+praw
+tweepy
+
+# Data preparation
+nltk
+emoji
+
+# Modeling
+torch
+transformers
+spacy
+# Download German language model: python -m spacy download de_core_news_md
+
+# Evaluation
+scikit-learn
+matplotlib
+seaborn
+
+# Utilities
+tqdm
